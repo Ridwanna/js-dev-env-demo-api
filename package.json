@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple API built in Node and Express hosted on Heroku",
   "main": "index.js",
+  
   "scripts": {
     "start": "node index.js"
   },
@@ -15,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/Ridwanna/js-dev-env-demo-api"
   },
-  "author": "Cory House",
+  "author": "Ridwanna",
   "license": "MIT"
 }
